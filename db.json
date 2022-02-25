@@ -15,14 +15,6 @@
       "telefono": "123123123",
       "notas": "Creo una nueva empresa",
       "id": 5
-    },
-    {
-      "nombre": "Menkian",
-      "empresa": "nuevoHuevo",
-      "email": "nuevohuevo@nuevohuevo.com",
-      "telefono": "41684313813518",
-      "notas": "Notas",
-      "id": 6
     }
   ]
 }
